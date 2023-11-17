@@ -15,14 +15,6 @@
 - 📫 How to reach me: mohitsingh1342000@gmail.com
 - ⚡ Fun fact: It’s all 0’s and 1’s
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-<br><br>
-
-
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 <br>
@@ -43,5 +35,12 @@
    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
    ![TypeScript](https://img.shields.io/badge/TypeScript-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
 </p>
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<br><br>
 
 
