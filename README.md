@@ -1,9 +1,9 @@
 ### Hi I'm Mohit 👋
 
-
-**mohitpsingh/mohitpsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<!--- 
+  **mohitpsingh/mohitpsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Here are some ideas to get you started:
+-->
 
 - 🧑‍💻 Full Stack Developer
 - 🌱 I’m currently learning AI ML
