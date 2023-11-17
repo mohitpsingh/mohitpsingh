@@ -1,4 +1,4 @@
-### Hi I'm Mohit 👋
+<h1 align="center"><b>Hi I'm Mohit 👋 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
