@@ -11,7 +11,6 @@
 <br>
 
 - 🧑‍💻 Full Stack Developer
-- 🌱 I’m currently learning AI ML
 - 📫 How to reach me: mohitsingh1342000@gmail.com
 - ⚡ Fun fact: It’s all 0’s and 1’s
 
